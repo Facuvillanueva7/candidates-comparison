@@ -1,0 +1,26 @@
+[
+  {
+    "id": "backend-dotnet",
+    "title": "Backend Developer (.NET / SQL)",
+    "department": "Engineering",
+    "seniority": "Senior",
+    "mustHaves": [".NET Core", "SQL optimization", "REST APIs", "Advanced English"],
+    "niceToHaves": ["Azure", "Distributed systems", "Mentoring"],
+    "budgetMin": 4500,
+    "budgetMax": 7000,
+    "targetEnglishLevel": "C1",
+    "notes": "US-facing product squad. Needs autonomy and strong written communication."
+  },
+  {
+    "id": "qa-automation",
+    "title": "QA Automation Engineer",
+    "department": "Engineering",
+    "seniority": "Mid-Senior",
+    "mustHaves": ["Test automation", "API testing", "CI/CD", "B2+ English"],
+    "niceToHaves": ["Playwright", "Performance testing", "Agile coaching"],
+    "budgetMin": 3200,
+    "budgetMax": 5600,
+    "targetEnglishLevel": "B2",
+    "notes": "Client-facing QA role with overlap into release process quality gates."
+  }
+]

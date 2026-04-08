@@ -1,0 +1,26 @@
+[
+  {
+    "id": "backend-heavy",
+    "name": "Backend-heavy",
+    "description": "Prioritizes deep technical execution, ownership, and English readiness for US-facing backend squads.",
+    "weights": {"technicalFit": 28, "softSkills": 8, "stability": 10, "salaryFit": 8, "englishFit": 16, "ownershipAutonomy": 18, "clientReadiness": 7, "aiFluency": 5}
+  },
+  {
+    "id": "low-risk",
+    "name": "Low-risk",
+    "description": "Optimizes for dependable delivery, strong communication, and robust evidence confidence.",
+    "weights": {"technicalFit": 18, "softSkills": 17, "stability": 18, "salaryFit": 8, "englishFit": 15, "ownershipAutonomy": 10, "clientReadiness": 10, "aiFluency": 4}
+  },
+  {
+    "id": "cost-efficient",
+    "name": "Cost-efficient",
+    "description": "Favors salary fit and practical client readiness while preserving acceptable technical floor.",
+    "weights": {"technicalFit": 20, "softSkills": 10, "stability": 10, "salaryFit": 26, "englishFit": 12, "ownershipAutonomy": 8, "clientReadiness": 10, "aiFluency": 4}
+  },
+  {
+    "id": "balanced",
+    "name": "Balanced",
+    "description": "Even weighting across capability, communication, reliability, and budget constraints.",
+    "weights": {"technicalFit": 18, "softSkills": 14, "stability": 13, "salaryFit": 12, "englishFit": 13, "ownershipAutonomy": 12, "clientReadiness": 12, "aiFluency": 6}
+  }
+]
